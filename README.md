@@ -9,7 +9,6 @@ This project is built using Data Structures. It tests a user's typing speed and 
 
 ## Technologies Used
 - C language
-- [Mention any other you used]
 
 ## How to Run
 1. Compile using any C compiler
