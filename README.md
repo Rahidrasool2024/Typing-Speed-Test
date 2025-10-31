@@ -12,4 +12,4 @@ This project is built using Data Structures. It tests a user's typing speed and 
 
 ## How to Run
 1. Compile using any C compiler
-2. Run the executable
+2. Run the executaable
